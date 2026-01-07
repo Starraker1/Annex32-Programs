@@ -14,7 +14,7 @@ becoming an Annex32 Forum member. The firmware is flashed into ESP8266, ESP32, E
 ESP-CAM and ESP32-P4 modules (bare, with display, with screen, touchscreen , and VGA) and programs operate interpretively from 
 the module's memory. This allows much faster turn around time for the development of programs as there is no flashing or 
 compilation required to test programs - just run it straight from the inbuilt program or line editors.  There is also a built in 
-File Manager, Configuration Manager and Web Output Screen.
+File Manager, Configuration Manager Web Output Screen and an indexed 600 page plus Help File.
 
 The Annex32 BASIC is a powerful dialect of this well known 3rd Generation programming language and includes all aspects of the language 
 from PEEKs and POKEs to a full optioned implementation of LVGL and LovYan GFX, some custom commands for sensors and options for aspects
