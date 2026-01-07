@@ -4,7 +4,7 @@ These programs are taken directly from Annex32 RDS Forum and are the work of man
 
 Some of them require specific modules and firmware to operate properly but all them had been tested at the time of publication.
 
-Members of the Forum can access details and the required firmware.
+Members of the Forum can access full details and the required firmware.
 
 RDS refers to a Rapid Development System.
 
