@@ -2,7 +2,8 @@ Annex32-Book-of-Programs
 
 These programs are taken directly from Annex32 RDS Forum and are the work of many authors and are written in Annex32 BASIC.
 
-Some of them require specific modules and firmware to operate properly but all them had been tested at the time of publication.
+Some of them require specific modules and firmware to operate properly but all them had been tested at the time of initial 
+publication on the Forum.
 
 Members of the Forum can access full details and the required firmware.
 
